@@ -12,5 +12,4 @@ case $op in
   *)
     
 esac
-
 echo "Result: $num1 $op $num2 = $result"
