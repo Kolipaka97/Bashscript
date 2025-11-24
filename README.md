@@ -1,4 +1,4 @@
- Celsius to Fahrenheit Converter 🌡️
+ Celsius to Fahrenheit Converter 
 
 This is a simple **Bash script** that converts temperature from **Celsius** to **Fahrenheit** using the `bc` command-line calculator.
 ---
@@ -13,12 +13,13 @@ The script:
 
 3. Displays the result with two decimal precision.
 ---
-chmod +x convert.sh
+chmod +x Temperature.sh
+
 permission to the file 
 
-#  Bash Calculator 🖩
+#  Bash Calculator 
 
-A lightweight **Bash script** that performs basic arithmetic operations (`+`, `-`, `*`) between two numbers entered by the user.
+A **Bash script** that performs basic arithmetic operations (`+`, `-`, `*`) between two numbers entered by the user.
 
 ---
 ##  Script Overview
@@ -31,7 +32,7 @@ The script:
 ---
 permittion to script
 
-chmod +x calculator.sh
+chmod +x cal.sh
 
 ---
 
@@ -52,7 +53,7 @@ The script:
 
 Permission to File 
 
-chmod +x file_counter.sh
+chmod +x count.sh
 
 ---
 
